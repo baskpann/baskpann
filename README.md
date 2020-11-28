@@ -1,16 +1,18 @@
-### Hi there 👋
+# /user/Baskaran Panneerselvam
 
-<!--
-**baskpann/baskpann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there, How you doin'? 👋
 
-Here are some ideas to get you started:
+- 😎 I'm an **Information Technology** undergrad from **Sri Venkateswara College of Engineering**
+- 🌱 I’m currently learning **Backend development**
+- :boy: Pronouns: **He | Him**
+- 📫 How to reach me [mail](mailto:baskpann@gmail.com) | [linkedin](https://www.linkedin.com/in/baskaran-panneer/)
+- :zap: Inspired quote **I don't need sleep, I need answers.**
+- :laughing: Fun fact: **Bazinga, I don't care**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- To be added -->
+
+<br>
+<br>
+<!-- footer -->
+
+<p align="center"><a href="http://hits.dwyl.com/baskpann/baskpann"> <img src="http://hits.dwyl.com/baskpann/baskpann.svg" alt="HitCount"></a></p>
