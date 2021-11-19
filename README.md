@@ -3,8 +3,7 @@
 ## Hi there, How you doin'? 👋
 
 - 😎 I'm an **Information Technology** undergrad from **Sri Venkateswara College of Engineering**
-- 🌱 I’m currently learning **Frontend development**
-- 🔭 I'm currently working on **creating a portfolio website**
+
 - :boy: Pronouns: **He | Him**
 - 📫 How to reach me [mail](mailto:baskpann@gmail.com) | [linkedin](https://www.linkedin.com/in/baskaran-panneer/)
 - :zap: Inspired quote **I don't need sleep, I need answers.**
